@@ -1,1 +1,516 @@
-{}
+{
+  "site": {
+    "name": "Trades Pets Universe Wiki",
+    "shortName": "Trades Pets Universe",
+    "tagline": "Valores de Pets, Guias de Troca, Códigos e Tier Lists",
+    "description": "O Trades Pets Universe Wiki oferece valores de pets, guias de troca, listas de pets raros, códigos, atualizações e dicas para iniciantes para ajudar os jogadores a colecionar e trocar pets.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guias",
+    "pets": "Pets",
+    "codes": "Códigos",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "updates": "Atualizações",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Trades Pets Universe Wiki - Pets, Valores e Códigos",
+      "description": "O Trades Pets Universe Wiki oferece valores de pets, guias de troca, listas de pets raros, códigos, atualizações e dicas para iniciantes para ajudar os jogadores a colecionar e trocar pets."
+    },
+    "hero": {
+      "eyebrow": "Jogo de aventura e troca de pets",
+      "title": "Trades Pets Universe Wiki",
+      "description": "Trades Pets Universe é um jogo de coleção e troca de pets em que os jogadores descobrem pets raros, trocam companheiros valiosos, desbloqueiam melhorias e montam a coleção definitiva.",
+      "stats": [
+        "Mais de 2M de visitas",
+        "Lista de valores de pets",
+        "Códigos ativos",
+        "Atualizações semanais"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Valores de pets",
+      "tertiaryCta": "Jogar no Roblox",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Trades Pets Universe",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o ciclo de chocar, trocar e colecionar, proteja seus melhores pets desde cedo e termine sua primeira sessão com um inventário negociável."
+        },
+        {
+          "number": "2",
+          "title": "Valores e trocas de pets",
+          "description": "Entenda como raridade, demanda e oferta definem o valor de um pet para identificar uma oferta justa antes de apertar aceitar."
+        },
+        {
+          "number": "3",
+          "title": "Códigos ativos",
+          "description": "Resgate códigos válidos de Trades Pets Universe por moedas, poções, frutas e boosts antes que expirem."
+        },
+        {
+          "number": "4",
+          "title": "Melhores pets para conseguir",
+          "description": "Mire nos pets que realmente têm poder de troca e transforme suas duplicatas em melhorias conforme sua coleção cresce."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Tier list de pets",
+        "Guia de troca",
+        "Chances de chocar",
+        "Todos os códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Tudo o que você precisa da primeira chocada ao primeiro troca justa, incluindo um checklist passo a passo para começar.",
+          "href": "/guide/trades-pets-universe-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Códigos válidos de Trades Pets Universe com as recompensas que concedem e como resgatá-los sem erros.",
+          "href": "/codes/trades-pets-universe-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier list de pets",
+          "description": "Como os tiers de S a C classificam os pets por demanda, oferta e liquidez, e não apenas pelo rótulo de raridade.",
+          "href": "/pets/trades-pets-universe-pet-tiers"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de troca",
+          "description": "Defina um preço mínimo, leia a demanda e confira os dois lados da janela de troca antes de confirmar.",
+          "href": "/guide/trades-pets-universe-trading-guide"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de chocagem",
+          "description": "Conjuntos de ovos, níveis de raridade, boosts de sorte e como transformar chocadas novas em trocas inteligentes.",
+          "href": "/mechanics/trades-pets-universe-hatching"
+        },
+        {
+          "badge": "Popular",
+          "title": "Valores de troca",
+          "description": "Os quatro pilares por trás de cada preço de pet e uma estrutura simples para classificar qualquer oferta como ganho, justa ou perda.",
+          "href": "/mechanics/trades-pets-universe-trade-values"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Última atualização",
+          "description": "Como novos pets, reequilíbrios de raridade e mudanças na interface de troca mexem nos valores após cada patch.",
+          "href": "/updates/trades-pets-universe-latest-update"
+        },
+        {
+          "badge": "Novo",
+          "title": "Melhores pets para conseguir",
+          "description": "Quais pets têm poder de troca real em cada estágio de progressão e quais ficam parados no seu inventário.",
+          "href": "/progression/trades-pets-universe-best-pets-to-get"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia da comunidade",
+          "description": "Onde os jogadores de Trades Pets Universe trocam, conferem preços e compartilham listas de valores.",
+          "href": "/community/trades-pets-universe-community"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Trades Pets Universe?",
+      "paragraphs": [
+        "Trades Pets Universe é um jogo de coleção de pets do Roblox criado pela Lip Builds em torno de um ciclo simples: junte moedas, compre ovos, choque pets e troque os que você não precisa. Com centenas de pets únicos e novas atualizações toda semana, o objetivo é montar a coleção mais forte possível.",
+        "Não existe uma lista de preços definida pelos desenvolvedores, então a comunidade decide quanto cada pet vale. A raridade define um piso, enquanto demanda e oferta definem o teto, e é por isso que quem lê o mercado cedo é quem sobe nas trocas. Nossa wiki cobre valores de pets, chances de chocagem, segurança nas trocas, códigos e rotas de progressão para você crescer sua coleção sem sair no prejuízo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Lip Builds"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Coleção e troca de pets"
+        },
+        {
+          "label": "Visitas",
+          "value": "2.0M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "99.3K+"
+        },
+        {
+          "label": "Ciclo principal",
+          "value": "Chocar, trocar, colecionar"
+        },
+        {
+          "label": "Atualizações",
+          "value": "Semanais"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore o Trades Pets Universe Wiki",
+      "description": "Tudo o que você precisa para chocar melhor, trocar com justiça e montar uma coleção de alto nível em Trades Pets Universe, de listas de valores e códigos a chances de chocagem e rotas de progressão.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Tier list de pets de Trades Pets Universe",
+          "description": "Um guia de ranking que mostra os pets mais fortes e valiosos que os jogadores podem colecionar em Trades Pets Universe, organizados por raridade, utilidade e demanda de troca.",
+          "href": "/pets/trades-pets-universe-pet-tiers",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pets míticos e lendários de maior demanda que sustentam trocas sérias"
+            },
+            {
+              "label": "A",
+              "detail": "Pets épicos fortes com demanda estável que trocam rápido"
+            },
+            {
+              "label": "B",
+              "detail": "Pets raros sólidos que funcionam como adição em negócios de nível médio"
+            },
+            {
+              "label": "C",
+              "detail": "Chocadas comuns e incomuns, ideais como preenchimento de troca"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Trades Pets Universe",
+          "description": "Uma seção de coleta de códigos de recompensa ativos e expirados, incluindo itens grátis, moedas, poções e outros bônus lançados pelo desenvolvedor.",
+          "href": "/codes/trades-pets-universe-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "update2",
+              "detail": "Fruta, boosts e poções"
+            },
+            {
+              "label": "1mvisits",
+              "detail": "Fruta, boosts e poções"
+            },
+            {
+              "label": "Russo",
+              "detail": "1 banana e 1 poção de moedas"
+            },
+            {
+              "label": "DarkRose",
+              "detail": "1 poção de sorte e 1 kiwi"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia para iniciantes de Trades Pets Universe",
+          "description": "Um guia inicial que explica o ciclo básico de jogo, incluindo colecionar pets, abrir ovos, ganhar moedas e progredir com eficiência.",
+          "href": "/guide/trades-pets-universe-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Jogue o ciclo principal e aprenda como as moedas são ganhas"
+            },
+            {
+              "label": "2",
+              "detail": "Choque um lote de ovos baratos para criar munição de troca"
+            },
+            {
+              "label": "3",
+              "detail": "Abra seu inventário e proteja seus melhores pets"
+            },
+            {
+              "label": "4",
+              "detail": "Leia o índice de coleção para ver o que existe"
+            },
+            {
+              "label": "5",
+              "detail": "Assista a trocas públicas antes de entrar em uma"
+            },
+            {
+              "label": "6",
+              "detail": "Faça uma troca pequena de baixo risco e registre o resultado"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de troca de Trades Pets Universe",
+          "description": "Um guia de troca que cobre como os jogadores trocam pets, avaliam ofertas e evitam negócios injustos, com foco em valores de pets e hábitos seguros de troca.",
+          "href": "/guide/trades-pets-universe-trading-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Valor",
+              "detail": "Classifique seus pets por demanda, não só pelo rótulo de raridade"
+            },
+            {
+              "label": "Piso",
+              "detail": "Defina um preço mínimo antes de começar a negociar"
+            },
+            {
+              "label": "Demanda",
+              "detail": "Acompanhe a velocidade com que os pets realmente circulam nos hubs movimentados"
+            },
+            {
+              "label": "Verificar",
+              "detail": "Releia os dois lados da janela de troca antes de confirmar"
+            },
+            {
+              "label": "Golpes",
+              "detail": "Diminua o ritmo quando um vendedor te apressa com uma contagem regressiva"
+            },
+            {
+              "label": "Hubs",
+              "detail": "Troque em servidores cheios, onde aparecem ofertas concorrentes"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de ovos de Trades Pets Universe",
+          "description": "Um guia em formato de banco de dados que explica os ovos disponíveis, os possíveis pets e as chances de raridade, além de quais ovos vale a pena chocar.",
+          "href": "/mechanics/trades-pets-universe-hatching",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Conjunto de ovos",
+              "detail": "A lista completa de pets que um ovo específico pode produzir"
+            },
+            {
+              "label": "Raridade",
+              "detail": "A faixa de escassez que define o valor base de um pet"
+            },
+            {
+              "label": "Sorte",
+              "detail": "Boosts temporários que deslocam as chances para pets mais raros"
+            },
+            {
+              "label": "Chocar x",
+              "detail": "Choca vários ovos de uma vez, mas mantém as chances por ovo"
+            },
+            {
+              "label": "Extras",
+              "detail": "Pets duplicados usados para melhorias ou preenchimento de troca"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de atualizações de Trades Pets Universe",
+          "description": "Uma linha do tempo das atualizações do jogo, novos pets, eventos e mudanças de jogabilidade a partir de anúncios oficiais, para quem está se atualizando após um patch.",
+          "href": "/updates/trades-pets-universe-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Novos pets",
+              "detail": "Pets recém-adicionados estreiam com valores inflados antes de a oferta crescer"
+            },
+            {
+              "label": "Reequilíbrio",
+              "detail": "Pets antigos podem ganhar ou perder valor quando as chances de raridade mudam"
+            },
+            {
+              "label": "Interface de troca",
+              "detail": "Ajustes na interface agilizam a negociação e reduzem erros"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Eventos limitados geram picos de demanda em pets com tempo limitado"
+            },
+            {
+              "label": "Registro de patch",
+              "detail": "Leia as notas cedo para precificar pets antes de o mercado se estabilizar"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de progressão de Trades Pets Universe",
+          "description": "Um guia de progressão que explica como melhorar sua coleção, ganhar moedas e poções mais rápido e desbloquear pets melhores.",
+          "href": "/progression/trades-pets-universe-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantenha pelo menos um de cada pet que chocar para ter profundidade de troca"
+            },
+            {
+              "label": "2",
+              "detail": "Escolha um único pet dos sonhos e foque suas ofertas nele"
+            },
+            {
+              "label": "3",
+              "detail": "Acompanhe os valores atuais em vez de confiar na memória"
+            },
+            {
+              "label": "4",
+              "detail": "Monte uma lista curta de parceiros de troca confiáveis"
+            },
+            {
+              "label": "5",
+              "detail": "Suba de raridade nas trocas em vez de trocar de lado"
+            },
+            {
+              "label": "6",
+              "detail": "Reveja os valores do seu inventário após cada atualização"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Links da comunidade de Trades Pets Universe",
+          "description": "Uma seção de comunidade que reúne os lugares onde os jogadores acompanham anúncios, atualizações e notícias do desenvolvedor de Trades Pets Universe.",
+          "href": "/community/trades-pets-universe-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hub de troca",
+              "detail": "Praças de troca no jogo onde os negócios realmente fecham"
+            },
+            {
+              "label": "Discord",
+              "detail": "Listas de valores, checagens de preço e serviços de intermediário"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Tier lists e atualizações de valores de criadores ativos"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Tópicos e murais de grupo para checagens de preço da comunidade"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Eventos de administradores e sorteios anunciados à comunidade"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Trades Pets Universe.",
+      "items": [
+        {
+          "question": "O que é Trades Pets Universe?",
+          "answer": "Trades Pets Universe é um jogo de coleção de pets do Roblox da Lip Builds. Você junta moedas, compra ovos, choca pets em vários níveis de raridade e troca duplicatas com outros jogadores para montar uma coleção mais forte."
+        },
+        {
+          "question": "Como começo em Trades Pets Universe?",
+          "answer": "Siga o ciclo para iniciantes: aprenda como as moedas são ganhas, choque um lote de ovos baratos, proteja seus melhores pets no inventário e faça uma troca pequena para aprender a janela de troca antes de arriscar algo valioso."
+        },
+        {
+          "question": "Existem códigos válidos de Trades Pets Universe?",
+          "answer": "Sim. Códigos como update2 e 1mvisits concederam frutas, boosts e poções, enquanto códigos como Russo e DarkRose dão itens como banana, kiwi ou poção de moedas. Resgate-os na caixa de códigos do jogo antes que expirem."
+        },
+        {
+          "question": "Como os valores dos pets são decididos em Trades Pets Universe?",
+          "answer": "Não existe uma lista de preços definida pelos desenvolvedores. A raridade define um piso, mas demanda, oferta e há quanto tempo um pet foi lançado definem o teto, e é por isso que as listas de valores da comunidade mudam após cada atualização."
+        },
+        {
+          "question": "Trocar é seguro em Trades Pets Universe?",
+          "answer": "As trocas são definitivas assim que os dois jogadores confirmam, então vá com calma na tela de confirmação, compare cada pet e defina um preço mínimo antes de negociar. Nunca deixe uma contagem regressiva te pressionar a aceitar."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Trades Pets Universe?",
+      "description": "De chocar seu primeiro ovo a trocar pets lendários raros, nossa wiki da comunidade cobre valores de pets, códigos ativos e dicas de progressão.",
+      "primary": "Leia o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias de Trades Pets Universe",
+    "overviewDescription": "Guias passo a passo de Trades Pets Universe cobrindo o básico para iniciantes, trocas, diamantes, missões e as dicas que ajudam você a crescer sua coleção rápido."
+  },
+  "pets": {
+    "overviewTitle": "Pets de Trades Pets Universe",
+    "overviewDescription": "Navegue por todas as listas de pets de Trades Pets Universe: melhores pets, tiers lendários e míticos, drops raros e os níveis de valor que decidem cada troca."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Trades Pets Universe",
+    "overviewDescription": "Todos os códigos ativos de Trades Pets Universe, como resgatá-los no Roblox e quanto vale cada recompensa para sua coleção."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Trades Pets Universe",
+    "overviewDescription": "Como funcionam os sistemas de Trades Pets Universe: chocagem, amuletos, missões, o sistema de troca, valores de troca e os mundos que você pode desbloquear."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Trades Pets Universe",
+    "overviewDescription": "Guias de progressão de Trades Pets Universe sobre a forma mais rápida de subir de nível, ganhar diamantes, desbloquear mundos e escolher os melhores pets para conseguir."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Trades Pets Universe",
+    "overviewDescription": "As últimas notas de atualização de Trades Pets Universe, novos pets, novos mundos, mudanças nas trocas e resumos de vazamentos de cada patch."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Trades Pets Universe",
+    "overviewDescription": "Links da comunidade de Trades Pets Universe: o Discord oficial, o hub do Reddit, eventos de administradores e onde os jogadores trocam e compartilham valores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Trades Pets Universe Wiki",
+    "about": "O Trades Pets Universe Wiki é um hub de guias independente feito por fãs, cobrindo valores de pets, guias de troca, códigos, tier lists e dicas de progressão para jogadores de Roblox.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Trades Pets Universe Wiki. Sem afiliação com o desenvolvedor do jogo ou com o Roblox.",
+    "description": "Jogo de coleção e troca de pets do Roblox. Choque pets raros, troque por valor e monte a coleção definitiva.",
+    "playGame": "Jogar Trades Pets Universe",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Página do jogo no Roblox",
+    "beginnerGuide": "Guia para iniciantes",
+    "petGuides": "Guias de pets",
+    "codesGuides": "Códigos e recompensas",
+    "progressionGuides": "Progressão",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "bosses": {}
+}

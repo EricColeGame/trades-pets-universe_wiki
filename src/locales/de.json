@@ -1,1 +1,516 @@
-{}
+{
+  "site": {
+    "name": "Trades Pets Universe Wiki",
+    "shortName": "Trades Pets Universe",
+    "tagline": "Pet-Werte, Handelsguides, Codes & Tier-Listen",
+    "description": "Das Trades Pets Universe Wiki bietet Pet-Werte, Handelsguides, Listen seltener Pets, Codes, Updates und Anfängertipps, damit Spieler Pets sammeln und handeln können.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guides",
+    "pets": "Pets",
+    "codes": "Codes",
+    "mechanics": "Mechaniken",
+    "progression": "Fortschritt",
+    "updates": "Updates",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Trades Pets Universe Wiki - Pets, Werte & Codes",
+      "description": "Das Trades Pets Universe Wiki bietet Pet-Werte, Handelsguides, Listen seltener Pets, Codes, Updates und Anfängertipps, damit Spieler Pets sammeln und handeln können."
+    },
+    "hero": {
+      "eyebrow": "Pet-Sammel- und Handelsabenteuer",
+      "title": "Trades Pets Universe Wiki",
+      "description": "Trades Pets Universe ist ein Pet-Sammel- und Handelsspiel, in dem Spieler seltene Pets entdecken, wertvolle Begleiter tauschen, Upgrades freischalten und die ultimative Sammlung aufbauen.",
+      "stats": [
+        "Über 2 Mio. Besuche",
+        "Pet-Werteliste",
+        "Aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfängerguide",
+      "secondaryCta": "Pet-Werte",
+      "tertiaryCta": "Auf Roblox spielen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in Trades Pets Universe",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerguide",
+          "description": "Lerne die Schleife aus Schlüpfen, Handeln und Sammeln, sichere deine besten Pets früh und beende deine erste Sitzung mit einem handelbaren Inventar."
+        },
+        {
+          "number": "2",
+          "title": "Pet-Werte & Handel",
+          "description": "Verstehe, wie Seltenheit, Nachfrage und Angebot den Wert eines Pets bestimmen, damit du ein faires Angebot erkennst, bevor du auf Annehmen drückst."
+        },
+        {
+          "number": "3",
+          "title": "Aktive Codes",
+          "description": "Löse funktionierende Trades-Pets-Universe-Codes für Münzen, Tränke, Früchte und Boosts ein, bevor sie ablaufen."
+        },
+        {
+          "number": "4",
+          "title": "Beste Pets, die du holen solltest",
+          "description": "Ziele auf die Pets, die wirklich Handelspower haben, und verwandle deine Duplikate in Upgrades, während deine Sammlung wächst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Pet-Tier-Liste",
+        "Handelsguide",
+        "Schlüpfchancen",
+        "Alle Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerguide",
+          "description": "Alles, was du vom ersten Schlüpfen bis zum ersten fairen Handel brauchst, inklusive einer Schritt-für-Schritt-Startcheckliste.",
+          "href": "/guide/trades-pets-universe-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Funktionierende Trades-Pets-Universe-Codes mit ihren Belohnungen und wie du sie fehlerfrei einlöst.",
+          "href": "/codes/trades-pets-universe-codes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Pet-Tier-Liste",
+          "description": "Wie die Tiers von S bis C Pets nach Nachfrage, Angebot und Liquidität einordnen statt nur nach Seltenheitslabel.",
+          "href": "/pets/trades-pets-universe-pet-tiers"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Handelsguide",
+          "description": "Lege einen Mindestpreis fest, lies die Nachfrage und prüfe beide Seiten des Handelsfensters, bevor du bestätigst.",
+          "href": "/guide/trades-pets-universe-trading-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Schlüpfguide",
+          "description": "Eier-Pools, Seltenheitsstufen, Glücksboosts und wie du frische Schlüpfungen in kluge Trades verwandelst.",
+          "href": "/mechanics/trades-pets-universe-hatching"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Handelswerte",
+          "description": "Die vier Säulen hinter jedem Pet-Preis und ein einfaches Raster, um jedes Angebot als Gewinn, fair oder Verlust einzuordnen.",
+          "href": "/mechanics/trades-pets-universe-trade-values"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Neuestes Update",
+          "description": "Wie neue Pets, Seltenheits-Anpassungen und Änderungen am Handelsfenster die Werte nach jedem Patch verschieben.",
+          "href": "/updates/trades-pets-universe-latest-update"
+        },
+        {
+          "badge": "Neu",
+          "title": "Beste Pets, die du holen solltest",
+          "description": "Welche Pets auf jeder Fortschrittsstufe echte Handelspower haben und welche in deinem Inventar verstauben.",
+          "href": "/progression/trades-pets-universe-best-pets-to-get"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Community-Guide",
+          "description": "Wo Trades-Pets-Universe-Spieler handeln, Preise checken und Wertelisten teilen.",
+          "href": "/community/trades-pets-universe-community"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Trades Pets Universe?",
+      "paragraphs": [
+        "Trades Pets Universe ist ein Roblox-Pet-Sammelspiel von Lip Builds rund um eine einfache Schleife: Münzen sammeln, Eier kaufen, Pets schlüpfen lassen und die handeln, die du nicht brauchst. Mit Hunderten einzigartiger Pets und jede Woche neuen Updates ist das Ziel, die stärkste Sammlung aufzubauen.",
+        "Es gibt keine vom Entwickler festgelegte Preisliste, also entscheidet die Community, was jedes Pet wert ist. Die Seltenheit setzt eine Untergrenze, während Nachfrage und Angebot die Obergrenze bestimmen — deshalb sind die Spieler, die den Markt früh lesen, diejenigen, die sich hochhandeln. Unser Wiki deckt Pet-Werte, Schlüpfchancen, Handelssicherheit, Codes und Fortschrittsrouten ab, damit deine Sammlung wächst, ohne dass du dich verbrennst."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Lip Builds"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Pet-Sammlung & Handel"
+        },
+        {
+          "label": "Besuche",
+          "value": "2,0 Mio.+"
+        },
+        {
+          "label": "Favoriten",
+          "value": "99,3K+"
+        },
+        {
+          "label": "Kernschleife",
+          "value": "Schlüpfen, handeln, sammeln"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Entdecke das Trades Pets Universe Wiki",
+      "description": "Alles, was du brauchst, um klüger zu schlüpfen, fair zu handeln und eine Top-Sammlung in Trades Pets Universe aufzubauen — von Wertelisten und Codes bis zu Schlüpfchancen und Fortschrittsrouten.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Trades Pets Universe Pets Tier-Liste",
+          "description": "Ein Ranking-Guide, der die stärksten und wertvollsten Pets zeigt, die Spieler in Trades Pets Universe sammeln können, geordnet nach Seltenheit, Nutzen und Handelsnachfrage.",
+          "href": "/pets/trades-pets-universe-pet-tiers",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mystische und legendäre Pets mit höchster Nachfrage, die ernsthafte Trades tragen"
+            },
+            {
+              "label": "A",
+              "detail": "Starke epische Pets mit stetiger Nachfrage, die schnell weggehen"
+            },
+            {
+              "label": "B",
+              "detail": "Solide seltene Pets, die als Beigabe in mittleren Deals funktionieren"
+            },
+            {
+              "label": "C",
+              "detail": "Häufige und ungewöhnliche Schlüpfungen, am besten als Handelsfüller"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Trades Pets Universe Codes",
+          "description": "Ein Code-Bereich mit aktiven und abgelaufenen Belohnungscodes, darunter Gratis-Items, Münzen, Tränke und weitere vom Entwickler veröffentlichte Boni.",
+          "href": "/codes/trades-pets-universe-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "update2",
+              "detail": "Frucht, Boosts und Tränke"
+            },
+            {
+              "label": "1mvisits",
+              "detail": "Frucht, Boosts und Tränke"
+            },
+            {
+              "label": "Russo",
+              "detail": "1 Banane und 1 Münztrank"
+            },
+            {
+              "label": "DarkRose",
+              "detail": "1 Glückstrank und 1 Kiwi"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Trades Pets Universe Anfängerguide",
+          "description": "Ein Einstiegsguide, der die grundlegende Spielschleife erklärt, darunter Pets sammeln, Eier öffnen, Münzen verdienen und effizient vorankommen.",
+          "href": "/guide/trades-pets-universe-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Spiele die Hauptschleife und lerne, wie Münzen verdient werden"
+            },
+            {
+              "label": "2",
+              "detail": "Lass eine Ladung günstiger Eier schlüpfen, um Handelmaterial aufzubauen"
+            },
+            {
+              "label": "3",
+              "detail": "Öffne dein Inventar und sichere deine besten Pets"
+            },
+            {
+              "label": "4",
+              "detail": "Lies den Sammlungsindex, um zu sehen, was es gibt"
+            },
+            {
+              "label": "5",
+              "detail": "Beobachte öffentliche Trades, bevor du selbst einem beitrittst"
+            },
+            {
+              "label": "6",
+              "detail": "Mach einen kleinen Trade mit geringem Risiko und notiere das Ergebnis"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Trades Pets Universe Handelsguide",
+          "description": "Ein Handelsguide, der erklärt, wie Spieler Pets tauschen, Angebote bewerten und unfaire Deals vermeiden, mit Fokus auf Pet-Werte und sichere Handelsgewohnheiten.",
+          "href": "/guide/trades-pets-universe-trading-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wert",
+              "detail": "Ordne deine Pets nach Nachfrage ein, nicht nur nach Seltenheitslabel"
+            },
+            {
+              "label": "Untergrenze",
+              "detail": "Lege einen Mindestpreis fest, bevor du zu verhandeln beginnst"
+            },
+            {
+              "label": "Nachfrage",
+              "detail": "Verfolge, wie schnell Pets in belebten Handelszentren wirklich weggehen"
+            },
+            {
+              "label": "Prüfen",
+              "detail": "Lies beide Seiten des Handelsfensters noch einmal, bevor du bestätigst"
+            },
+            {
+              "label": "Betrug",
+              "detail": "Werde langsamer, wenn ein Verkäufer dich mit einem Countdown unter Druck setzt"
+            },
+            {
+              "label": "Zentren",
+              "detail": "Handle auf vollen Servern, wo konkurrierende Angebote auftauchen"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Trades Pets Universe Eier-Guide",
+          "description": "Ein Guide im Datenbankstil, der verfügbare Eier, mögliche Pet-Drops und Seltenheitschancen erklärt und zeigt, welche Eier sich zum Schlüpfen lohnen.",
+          "href": "/mechanics/trades-pets-universe-hatching",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Eier-Pool",
+              "detail": "Die vollständige Liste der Pets, die ein bestimmtes Ei hervorbringen kann"
+            },
+            {
+              "label": "Seltenheit",
+              "detail": "Das Knappheitsband, das den Basiswert eines Pets festlegt"
+            },
+            {
+              "label": "Glück",
+              "detail": "Temporäre Boosts, die die Chancen in Richtung seltenerer Pets verschieben"
+            },
+            {
+              "label": "Schlüpfen x",
+              "detail": "Lässt mehrere Eier gleichzeitig schlüpfen, behält aber die Chancen pro Ei"
+            },
+            {
+              "label": "Extras",
+              "detail": "Duplikate, die für Upgrades oder als Handelsfüller genutzt werden"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Trades Pets Universe Update-Guide",
+          "description": "Eine Zeitleiste der Spiel-Updates, neuen Pets, Events und Gameplay-Änderungen aus offiziellen Ankündigungen, für Spieler, die nach einem Patch aufholen.",
+          "href": "/updates/trades-pets-universe-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Neue Pets",
+              "detail": "Frisch hinzugefügte Pets starten mit überhöhten Werten, bevor das Angebot wächst"
+            },
+            {
+              "label": "Neubalance",
+              "detail": "Ältere Pets können an Wert gewinnen oder verlieren, wenn sich Seltenheitschancen verschieben"
+            },
+            {
+              "label": "Handels-UI",
+              "detail": "Interface-Anpassungen beschleunigen Verhandlungen und reduzieren Fehler"
+            },
+            {
+              "label": "Events",
+              "detail": "Begrenzte Events lösen Nachfragespitzen bei zeitlich begrenzten Pets aus"
+            },
+            {
+              "label": "Patch-Log",
+              "detail": "Lies die Notizen früh, um Pets zu bewerten, bevor sich der Markt einpendelt"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Trades Pets Universe Fortschrittsguide",
+          "description": "Ein Fortschrittsguide, der erklärt, wie du deine Sammlung verbesserst, schneller Münzen und Tränke verdienst und bessere Pets freischaltest.",
+          "href": "/progression/trades-pets-universe-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Behalte mindestens ein Exemplar jedes Pets, das du schlüpfst, für Handelstiefe"
+            },
+            {
+              "label": "2",
+              "detail": "Wähle ein einziges Wunsch-Pet und richte deine Angebote darauf aus"
+            },
+            {
+              "label": "3",
+              "detail": "Verfolge aktuelle Werte, statt dich auf dein Gedächtnis zu verlassen"
+            },
+            {
+              "label": "4",
+              "detail": "Baue eine kurze Liste zuverlässiger Handelspartner auf"
+            },
+            {
+              "label": "5",
+              "detail": "Handle dich in der Seltenheit nach oben, statt seitwärts zu tauschen"
+            },
+            {
+              "label": "6",
+              "detail": "Überprüfe deine Inventarwerte nach jedem Update erneut"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trades Pets Universe Community-Links",
+          "description": "Ein Community-Bereich, der die Orte sammelt, an denen Spieler Ankündigungen, Updates und Entwicklernews zu Trades Pets Universe verfolgen.",
+          "href": "/community/trades-pets-universe-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Handelszentrum",
+              "detail": "Handelsplätze im Spiel, an denen Deals wirklich abgeschlossen werden"
+            },
+            {
+              "label": "Discord",
+              "detail": "Wertelisten, Preischecks und Mittelsmann-Dienste"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Tier-Listen und Wertupdates von aktiven Creators"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Threads und Gruppenwände für Preischecks der Community"
+            },
+            {
+              "label": "Events",
+              "detail": "Admin-Events und Giveaways, die der Community angekündigt werden"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Trades Pets Universe.",
+      "items": [
+        {
+          "question": "Was ist Trades Pets Universe?",
+          "answer": "Trades Pets Universe ist ein Roblox-Pet-Sammelspiel von Lip Builds. Du sammelst Münzen, kaufst Eier, lässt Pets über mehrere Seltenheitsstufen schlüpfen und handelst Duplikate mit anderen Spielern, um eine stärkere Sammlung aufzubauen."
+        },
+        {
+          "question": "Wie starte ich in Trades Pets Universe?",
+          "answer": "Folge der Anfängerschleife: Lerne, wie Münzen verdient werden, lass eine Ladung günstiger Eier schlüpfen, sichere deine besten Pets im Inventar und mach dann einen kleinen Trade, um das Handelsfenster kennenzulernen, bevor du etwas Wertvolles riskierst."
+        },
+        {
+          "question": "Gibt es funktionierende Trades Pets Universe Codes?",
+          "answer": "Ja. Codes wie update2 und 1mvisits haben Früchte, Boosts und Tränke gewährt, während Codes wie Russo und DarkRose Items wie eine Banane, Kiwi oder einen Münztrank vergeben. Löse sie im Code-Feld des Spiels ein, bevor sie ablaufen."
+        },
+        {
+          "question": "Wie werden die Pet-Werte in Trades Pets Universe festgelegt?",
+          "answer": "Es gibt keine vom Entwickler festgelegte Preisliste. Die Seltenheit setzt eine Untergrenze, aber Nachfrage, Angebot und wie kurz ein Pet erst erschienen ist bestimmen die Obergrenze — deshalb bewegen sich die Wertelisten der Community nach jedem Update."
+        },
+        {
+          "question": "Ist Handeln in Trades Pets Universe sicher?",
+          "answer": "Trades sind endgültig, sobald beide Spieler bestätigen. Geh also am Bestätigungsbildschirm langsamer vor, vergleiche jedes Pet und lege einen Mindestpreis fest, bevor du verhandelst. Lass dich nie von einem Countdown zum Annehmen drängen."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Trades Pets Universe zu meistern?",
+      "description": "Vom Schlüpfen deines ersten Eies bis zum Handel mit seltenen legendären Pets deckt unser Community-Wiki Pet-Werte, aktive Codes und Fortschrittstipps ab.",
+      "primary": "Lies den Anfängerguide",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Trades Pets Universe Guides",
+    "overviewDescription": "Schritt-für-Schritt-Guides zu Trades Pets Universe mit Anfängergrundlagen, Handel, Diamanten, Quests und den Tipps, mit denen du schnell eine Sammlung aufbaust."
+  },
+  "pets": {
+    "overviewTitle": "Trades Pets Universe Pets",
+    "overviewDescription": "Durchsuche jede Pet-Liste von Trades Pets Universe: beste Pets, legendäre und mystische Tiers, seltene Drops und die Wertstufen, die jeden Trade entscheiden."
+  },
+  "codes": {
+    "overviewTitle": "Trades Pets Universe Codes",
+    "overviewDescription": "Alle aktiven Trades Pets Universe Codes, wie du sie in Roblox einlöst und was jede Belohnung für deine Sammlung wert ist."
+  },
+  "mechanics": {
+    "overviewTitle": "Trades Pets Universe Mechaniken",
+    "overviewDescription": "Wie die Systeme von Trades Pets Universe funktionieren: Schlüpfen, Talismane, Quests, das Handelssystem, Handelswerte und die Welten, die du freischalten kannst."
+  },
+  "progression": {
+    "overviewTitle": "Trades Pets Universe Fortschritt",
+    "overviewDescription": "Fortschrittsguides zu Trades Pets Universe: der schnellste Weg zum Aufsteigen, Diamanten verdienen, Welten freischalten und die besten Pets, die du als Nächstes holen solltest."
+  },
+  "updates": {
+    "overviewTitle": "Trades Pets Universe Updates",
+    "overviewDescription": "Die neuesten Update-Notizen zu Trades Pets Universe, neue Pets, neue Welten, Handelsänderungen und Leak-Zusammenfassungen für jeden Patch."
+  },
+  "community": {
+    "overviewTitle": "Trades Pets Universe Community",
+    "overviewDescription": "Community-Links zu Trades Pets Universe: der offizielle Discord, der Reddit-Hub, Admin-Events und wo Spieler handeln und Werte teilen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Trades Pets Universe Wiki",
+    "about": "Das Trades Pets Universe Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Pet-Werten, Handelsguides, Codes, Tier-Listen und Fortschrittstipps für Roblox-Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Trades Pets Universe Wiki. Nicht mit dem Spieleentwickler oder Roblox verbunden.",
+    "description": "Roblox-Pet-Sammel- und Handelsspiel. Lass seltene Pets schlüpfen, handle für Wert und baue die ultimative Sammlung auf.",
+    "playGame": "Trades Pets Universe spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Roblox-Spielseite",
+    "beginnerGuide": "Anfängerguide",
+    "petGuides": "Pet-Guides",
+    "codesGuides": "Codes & Belohnungen",
+    "progressionGuides": "Fortschritt",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "bosses": {}
+}

@@ -1,1 +1,516 @@
-{}
+{
+  "site": {
+    "name": "Trades Pets Universe Wiki",
+    "shortName": "Trades Pets Universe",
+    "tagline": "Valores de mascotas, guías de intercambio, códigos y tier lists",
+    "description": "Trades Pets Universe Wiki ofrece valores de mascotas, guías de intercambio, listas de mascotas raras, códigos, actualizaciones y consejos para principiantes para ayudar a los jugadores a coleccionar e intercambiar mascotas.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guías",
+    "pets": "Mascotas",
+    "codes": "Códigos",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "updates": "Actualizaciones",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Trades Pets Universe Wiki - Mascotas, valores y códigos",
+      "description": "Trades Pets Universe Wiki ofrece valores de mascotas, guías de intercambio, listas de mascotas raras, códigos, actualizaciones y consejos para principiantes para ayudar a los jugadores a coleccionar e intercambiar mascotas."
+    },
+    "hero": {
+      "eyebrow": "Juego de aventura e intercambio de mascotas",
+      "title": "Trades Pets Universe Wiki",
+      "description": "Trades Pets Universe es un juego de colección e intercambio de mascotas en el que los jugadores descubren mascotas raras, intercambian compañeros valiosos, desbloquean mejoras y construyen la colección definitiva.",
+      "stats": [
+        "Más de 2M de visitas",
+        "Lista de valores de mascotas",
+        "Códigos activos",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Valores de mascotas",
+      "tertiaryCta": "Jugar en Roblox",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Trades Pets Universe",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle de eclosionar, intercambiar y coleccionar, bloquea tus mejores mascotas desde el principio y termina tu primera sesión con un inventario intercambiable."
+        },
+        {
+          "number": "2",
+          "title": "Valores e intercambios de mascotas",
+          "description": "Entiende cómo la rareza, la demanda y la oferta fijan el valor de una mascota para que detectes una oferta justa antes de pulsar aceptar."
+        },
+        {
+          "number": "3",
+          "title": "Códigos activos",
+          "description": "Canjea códigos funcionales de Trades Pets Universe por monedas, pociones, frutas y potenciadores antes de que caduquen."
+        },
+        {
+          "number": "4",
+          "title": "Mejores mascotas que conseguir",
+          "description": "Apunta a las mascotas que de verdad tienen poder de intercambio y convierte tus duplicados en mejoras a medida que crece tu colección."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Tier list de mascotas",
+        "Guía de intercambio",
+        "Probabilidades de eclosión",
+        "Todos los códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primera eclosión hasta tu primer intercambio justo, incluida una lista de pasos para empezar.",
+          "href": "/guide/trades-pets-universe-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Códigos funcionales de Trades Pets Universe con las recompensas que otorgan y cómo canjearlos sin errores.",
+          "href": "/codes/trades-pets-universe-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier list de mascotas",
+          "description": "Cómo los tiers de S a C clasifican las mascotas por demanda, oferta y liquidez, y no solo por su etiqueta de rareza.",
+          "href": "/pets/trades-pets-universe-pet-tiers"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de intercambio",
+          "description": "Fija un precio mínimo, lee la demanda y verifica ambos lados de la ventana de intercambio antes de confirmar.",
+          "href": "/guide/trades-pets-universe-trading-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de eclosión",
+          "description": "Grupos de huevos, niveles de rareza, potenciadores de suerte y cómo convertir las eclosiones nuevas en intercambios inteligentes.",
+          "href": "/mechanics/trades-pets-universe-hatching"
+        },
+        {
+          "badge": "Popular",
+          "title": "Valores de intercambio",
+          "description": "Los cuatro pilares detrás de cada precio de mascota y un marco sencillo para decidir si una oferta es ganancia, justa o pérdida.",
+          "href": "/mechanics/trades-pets-universe-trade-values"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Última actualización",
+          "description": "Cómo las nuevas mascotas, los reajustes de rareza y los cambios en la interfaz de intercambio mueven los valores tras cada parche.",
+          "href": "/updates/trades-pets-universe-latest-update"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Mejores mascotas que conseguir",
+          "description": "Qué mascotas tienen poder de intercambio real en cada etapa de progresión y cuáles se estancan en tu inventario.",
+          "href": "/progression/trades-pets-universe-best-pets-to-get"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de comunidad",
+          "description": "Dónde los jugadores de Trades Pets Universe intercambian, consultan precios y comparten listas de valores.",
+          "href": "/community/trades-pets-universe-community"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Trades Pets Universe?",
+      "paragraphs": [
+        "Trades Pets Universe es un juego de colección de mascotas de Roblox creado por Lip Builds en torno a un bucle sencillo: consigue monedas, compra huevos, eclosiona mascotas e intercambia las que no necesitas. Con cientos de mascotas únicas y nuevas actualizaciones cada semana, el objetivo es construir la colección más fuerte posible.",
+        "No hay una lista de precios fijada por los desarrolladores, así que la comunidad decide cuánto vale cada mascota. La rareza marca un suelo, mientras que la demanda y la oferta deciden el techo, y por eso los jugadores que leen el mercado antes son los que suben en los intercambios. Nuestra wiki cubre valores de mascotas, probabilidades de eclosión, seguridad en los intercambios, códigos y rutas de progresión para que hagas crecer tu colección sin salir quemado."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Lip Builds"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Colección e intercambio de mascotas"
+        },
+        {
+          "label": "Visitas",
+          "value": "2.0M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "99.3K+"
+        },
+        {
+          "label": "Bucle principal",
+          "value": "Eclosionar, intercambiar, coleccionar"
+        },
+        {
+          "label": "Actualizaciones",
+          "value": "Semanales"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Trades Pets Universe Wiki",
+      "description": "Todo lo que necesitas para eclosionar mejor, intercambiar con justicia y construir una colección de primer nivel en Trades Pets Universe, desde listas de valores y códigos hasta probabilidades de eclosión y rutas de progresión.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Tier list de mascotas de Trades Pets Universe",
+          "description": "Una guía de clasificación que muestra las mascotas más fuertes y valiosas que los jugadores pueden coleccionar en Trades Pets Universe, organizadas por rareza, utilidad y demanda de intercambio.",
+          "href": "/pets/trades-pets-universe-pet-tiers",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mascotas míticas y legendarias de máxima demanda que sostienen los intercambios serios"
+            },
+            {
+              "label": "A",
+              "detail": "Mascotas épicas fuertes con demanda estable que se intercambian rápido"
+            },
+            {
+              "label": "B",
+              "detail": "Mascotas raras sólidas que sirven como añadido en tratos de nivel medio"
+            },
+            {
+              "label": "C",
+              "detail": "Eclosiones comunes y poco comunes, ideales como relleno de intercambio"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Trades Pets Universe",
+          "description": "Una sección de recopilación de códigos de recompensa activos y caducados, incluidos objetos gratis, monedas, pociones y otros bonus publicados por el desarrollador.",
+          "href": "/codes/trades-pets-universe-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "update2",
+              "detail": "Fruta, potenciadores y pociones"
+            },
+            {
+              "label": "1mvisits",
+              "detail": "Fruta, potenciadores y pociones"
+            },
+            {
+              "label": "Russo",
+              "detail": "1 plátano y 1 poción de monedas"
+            },
+            {
+              "label": "DarkRose",
+              "detail": "1 poción de suerte y 1 kiwi"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía para principiantes de Trades Pets Universe",
+          "description": "Una guía inicial que explica el bucle básico de juego, incluida la colección de mascotas, la apertura de huevos, la obtención de monedas y una progresión eficiente.",
+          "href": "/guide/trades-pets-universe-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Juega el bucle principal y aprende cómo se ganan las monedas"
+            },
+            {
+              "label": "2",
+              "detail": "Eclosiona un lote de huevos baratos para crear material de intercambio"
+            },
+            {
+              "label": "3",
+              "detail": "Abre tu inventario y bloquea tus mejores mascotas"
+            },
+            {
+              "label": "4",
+              "detail": "Lee el índice de colección para ver qué existe"
+            },
+            {
+              "label": "5",
+              "detail": "Observa intercambios públicos antes de participar en uno"
+            },
+            {
+              "label": "6",
+              "detail": "Haz un intercambio pequeño de bajo riesgo y registra el resultado"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de intercambio de Trades Pets Universe",
+          "description": "Una guía de intercambio que cubre cómo los jugadores intercambian mascotas, evalúan ofertas y evitan tratos injustos, con especial atención a los valores de las mascotas y a los hábitos de intercambio seguros.",
+          "href": "/guide/trades-pets-universe-trading-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Valor",
+              "detail": "Clasifica tus mascotas por demanda, no solo por su etiqueta de rareza"
+            },
+            {
+              "label": "Suelo",
+              "detail": "Fija un precio mínimo antes de empezar a negociar"
+            },
+            {
+              "label": "Demanda",
+              "detail": "Sigue la rapidez con la que se mueven las mascotas en los centros de intercambio concurridos"
+            },
+            {
+              "label": "Verifica",
+              "detail": "Vuelve a leer ambos lados de la ventana de intercambio antes de confirmar"
+            },
+            {
+              "label": "Estafas",
+              "detail": "Baja el ritmo cuando un vendedor te presiona con una cuenta atrás"
+            },
+            {
+              "label": "Centros",
+              "detail": "Intercambia en servidores llenos donde aparecen ofertas competidoras"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de huevos de Trades Pets Universe",
+          "description": "Una guía tipo base de datos que explica los huevos disponibles, las posibles mascotas y las probabilidades de rareza, además de qué huevos merece la pena eclosionar.",
+          "href": "/mechanics/trades-pets-universe-hatching",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Grupo de huevos",
+              "detail": "La lista completa de mascotas que puede producir un huevo concreto"
+            },
+            {
+              "label": "Rareza",
+              "detail": "La franja de escasez que fija el valor base de una mascota"
+            },
+            {
+              "label": "Suerte",
+              "detail": "Potenciadores temporales que inclinan las probabilidades hacia mascotas más raras"
+            },
+            {
+              "label": "Eclosión x",
+              "detail": "Eclosiona varios huevos a la vez pero mantiene las probabilidades por huevo"
+            },
+            {
+              "label": "Extras",
+              "detail": "Mascotas duplicadas usadas para mejoras o como relleno de intercambio"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de actualizaciones de Trades Pets Universe",
+          "description": "Una cronología de las actualizaciones del juego, nuevas mascotas, eventos y cambios de jugabilidad a partir de anuncios oficiales, para jugadores que se ponen al día tras un parche.",
+          "href": "/updates/trades-pets-universe-latest-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Nuevas mascotas",
+              "detail": "Las mascotas recién añadidas debutan con valores inflados antes de que crezca la oferta"
+            },
+            {
+              "label": "Reequilibrio",
+              "detail": "Las mascotas antiguas pueden ganar o perder valor cuando cambian las probabilidades de rareza"
+            },
+            {
+              "label": "Interfaz de intercambio",
+              "detail": "Los ajustes de interfaz agilizan la negociación y reducen errores"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Los eventos limitados disparan la demanda de mascotas con tiempo limitado"
+            },
+            {
+              "label": "Registro de parches",
+              "detail": "Lee las notas pronto para poner precio a las mascotas antes de que se asiente el mercado"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de progresión de Trades Pets Universe",
+          "description": "Una guía de progresión que explica cómo mejorar tu colección, ganar monedas y pociones más rápido y desbloquear mejores mascotas.",
+          "href": "/progression/trades-pets-universe-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Conserva al menos una de cada mascota que eclosiones para tener profundidad de intercambio"
+            },
+            {
+              "label": "2",
+              "detail": "Elige una sola mascota objetivo y céntrate en conseguirla con tus ofertas"
+            },
+            {
+              "label": "3",
+              "detail": "Sigue los valores actuales en lugar de fiarte de la memoria"
+            },
+            {
+              "label": "4",
+              "detail": "Crea una lista corta de compañeros de intercambio fiables"
+            },
+            {
+              "label": "5",
+              "detail": "Sube de rareza en tus intercambios en lugar de cambiar en horizontal"
+            },
+            {
+              "label": "6",
+              "detail": "Vuelve a revisar los valores de tu inventario tras cada actualización"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Enlaces de comunidad de Trades Pets Universe",
+          "description": "Una sección de comunidad que reúne los lugares donde los jugadores siguen anuncios, actualizaciones y noticias del desarrollador de Trades Pets Universe.",
+          "href": "/community/trades-pets-universe-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Centro de intercambio",
+              "detail": "Plazas de intercambio dentro del juego donde los tratos se cierran de verdad"
+            },
+            {
+              "label": "Discord",
+              "detail": "Listas de valores, consultas de precio y servicios de intermediario"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Tier lists y actualizaciones de valores de creadores activos"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Hilos y muros de grupo para consultas de precio de la comunidad"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Eventos de administradores y sorteos anunciados a la comunidad"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Trades Pets Universe.",
+      "items": [
+        {
+          "question": "¿Qué es Trades Pets Universe?",
+          "answer": "Trades Pets Universe es un juego de colección de mascotas de Roblox creado por Lip Builds. Consigues monedas, compras huevos, eclosionas mascotas de varios niveles de rareza e intercambias duplicados con otros jugadores para construir una colección más fuerte."
+        },
+        {
+          "question": "¿Cómo empiezo en Trades Pets Universe?",
+          "answer": "Sigue el bucle para principiantes: aprende cómo se ganan las monedas, eclosiona un lote de huevos baratos, bloquea tus mejores mascotas en el inventario y luego haz un intercambio pequeño para aprender a usar la ventana de intercambio antes de arriesgar algo valioso."
+        },
+        {
+          "question": "¿Hay códigos funcionales de Trades Pets Universe?",
+          "answer": "Sí. Códigos como update2 y 1mvisits han otorgado frutas, potenciadores y pociones, mientras que códigos como Russo y DarkRose entregan objetos como un plátano, un kiwi o una poción de monedas. Canjéalos en la caja de códigos del juego antes de que caduquen."
+        },
+        {
+          "question": "¿Cómo se deciden los valores de las mascotas en Trades Pets Universe?",
+          "answer": "No hay una lista de precios fijada por los desarrolladores. La rareza marca un suelo, pero la demanda, la oferta y lo reciente que sea el lanzamiento de una mascota deciden el techo, por eso las listas de valores de la comunidad cambian tras cada actualización."
+        },
+        {
+          "question": "¿Es seguro intercambiar en Trades Pets Universe?",
+          "answer": "Los intercambios son definitivos en cuanto ambos jugadores confirman, así que tómatelo con calma en la pantalla de confirmación, compara cada mascota y fija un precio mínimo antes de negociar. Nunca dejes que una cuenta atrás te presione para aceptar."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Trades Pets Universe?",
+      "description": "Desde eclosionar tu primer huevo hasta intercambiar mascotas legendarias raras, nuestra wiki comunitaria cubre valores de mascotas, códigos activos y consejos de progresión.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Trades Pets Universe",
+    "overviewDescription": "Guías paso a paso de Trades Pets Universe que cubren lo básico para principiantes, intercambios, diamantes, misiones y los consejos que te ayudan a hacer crecer tu colección rápido."
+  },
+  "pets": {
+    "overviewTitle": "Mascotas de Trades Pets Universe",
+    "overviewDescription": "Explora todas las listas de mascotas de Trades Pets Universe: mejores mascotas, tiers legendarios y míticos, drops raros y los niveles de valor que deciden cada intercambio."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Trades Pets Universe",
+    "overviewDescription": "Todos los códigos activos de Trades Pets Universe, cómo canjearlos en Roblox y cuánto vale cada recompensa para tu colección."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Trades Pets Universe",
+    "overviewDescription": "Cómo funcionan los sistemas de Trades Pets Universe: eclosión, amuletos, misiones, el sistema de intercambio, valores de intercambio y los mundos que puedes desbloquear."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Trades Pets Universe",
+    "overviewDescription": "Guías de progresión de Trades Pets Universe sobre la forma más rápida de subir de nivel, ganar diamantes, desbloquear mundos y elegir las mejores mascotas que conseguir."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones de Trades Pets Universe",
+    "overviewDescription": "Las últimas notas de actualización de Trades Pets Universe, nuevas mascotas, nuevos mundos, cambios en el intercambio y recopilaciones de filtraciones de cada parche."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Trades Pets Universe",
+    "overviewDescription": "Enlaces de la comunidad de Trades Pets Universe: el Discord oficial, el centro de Reddit, eventos de administradores y dónde los jugadores intercambian y comparten valores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Trades Pets Universe Wiki",
+    "about": "Trades Pets Universe Wiki es un centro de guías independiente creado por fans que cubre valores de mascotas, guías de intercambio, códigos, tier lists y consejos de progresión para jugadores de Roblox.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Trades Pets Universe Wiki. Sin afiliación con el desarrollador del juego ni con Roblox.",
+    "description": "Juego de colección e intercambio de mascotas de Roblox. Eclosiona mascotas raras, intercambia por valor y construye la colección definitiva.",
+    "playGame": "Jugar a Trades Pets Universe",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Página del juego en Roblox",
+    "beginnerGuide": "Guía para principiantes",
+    "petGuides": "Guías de mascotas",
+    "codesGuides": "Códigos y recompensas",
+    "progressionGuides": "Progresión",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "bosses": {}
+}

@@ -247,10 +247,43 @@ const GROUP_TITLES: Record<string, string> = {
 };
 
 // locale → 分组标题映射（非英语 locale 未提供时回退到默认英文标题）
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: {
+    guide: "Guías",
+    pets: "Mascotas",
+    codes: "Códigos",
+    mechanics: "Mecánicas",
+    progression: "Progresión",
+    updates: "Actualizaciones",
+    community: "Comunidad",
+  },
+  pt: {
+    guide: "Guias",
+    pets: "Pets",
+    codes: "Códigos",
+    mechanics: "Mecânicas",
+    progression: "Progressão",
+    updates: "Atualizações",
+    community: "Comunidade",
+  },
+  de: {
+    guide: "Guides",
+    pets: "Pets",
+    codes: "Codes",
+    mechanics: "Mechaniken",
+    progression: "Fortschritt",
+    updates: "Updates",
+    community: "Community",
+  },
+};
 
 // locale → "Overview" 翻译
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  en: "Overview",
+  es: "Resumen",
+  pt: "Visão geral",
+  de: "Übersicht",
+};
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
