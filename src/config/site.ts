@@ -9,10 +9,10 @@ export interface SiteConfig {
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
-    discord?: string;
-    youtube?: string;
-    twitter?: string;
-    tiktok?: string;
+    /** Official developer community (Lip Builds Roblox group — verified reachable). */
+    developerGroup?: string;
+    /** Gameplay / guide video hub. */
+    gameplayVideos?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
@@ -28,10 +28,14 @@ export const siteConfig: SiteConfig = {
   supportEmail: "support@trades-pets-universe.wiki",
   gameUrl: "https://www.roblox.com/games/74629631798007/Pets-Universe",
   heroVideoId: "NaBPUoqp8ro", // Trades Pets Universe trading update gameplay showcase
+  // 00基础信息.md marks every official social account as 待补充 (unconfirmed), so no
+  // "Official Discord"/"Official YouTube" link is claimed. Only verified real destinations
+  // are exposed: the developer's Roblox group and a gameplay-video search hub.
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/watch?v=NaBPUoqp8ro",
+    developerGroup: "https://www.roblox.com/communities/35939768/Lip-Builds",
+    gameplayVideos: "https://www.youtube.com/results?search_query=Trades+Pets+Universe+Roblox+gameplay",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  // Single source of truth for locales is src/i18n/routing.ts; kept in sync here.
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
