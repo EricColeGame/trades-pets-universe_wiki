@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Trades Pets Universe Wiki",
+  shortName: "Trades Pets Universe",
+  logoText: "TP",
+  tagline: "Pet Values, Trading Guides, Codes & Tier Lists",
+  description: "Your ultimate Trades Pets Universe wiki! Explore pet values, trading guides, rare pet lists, active codes, egg odds, and beginner progression tips for the Roblox pet collection game.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://trades-pets-universe.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://trades-pets-universe.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/74629631798007/Pets-Universe",
+  heroVideoId: "NaBPUoqp8ro", // Trades Pets Universe trading update gameplay showcase
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
