@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "pets": "Pets",
+    "codes": "Codes",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -445,13 +452,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "guide": {},
-  "pets": {},
-  "codes": {},
-  "mechanics": {},
-  "progression": {},
-  "updates": {},
-  "community": {},
+  "guide": {
+    "overviewTitle": "Trades Pets Universe Guides",
+    "overviewDescription": "Step-by-step Trades Pets Universe guides covering beginner basics, trading, diamonds, quests, and the tips that help you grow a collection fast."
+  },
+  "pets": {
+    "overviewTitle": "Trades Pets Universe Pets",
+    "overviewDescription": "Browse every Trades Pets Universe pet list: best pets, legendary and mythic tiers, rare drops, and the value tiers that decide every trade."
+  },
+  "codes": {
+    "overviewTitle": "Trades Pets Universe Codes",
+    "overviewDescription": "All active Trades Pets Universe codes, how to redeem them in Roblox, and what each reward is worth for your collection."
+  },
+  "mechanics": {
+    "overviewTitle": "Trades Pets Universe Mechanics",
+    "overviewDescription": "How Trades Pets Universe systems work: hatching, charms, quests, the trade system, trade values, and the worlds you can unlock."
+  },
+  "progression": {
+    "overviewTitle": "Trades Pets Universe Progression",
+    "overviewDescription": "Trades Pets Universe progression guides on the fastest way to level up, earn diamonds, unlock worlds, and choose the best pets to get next."
+  },
+  "updates": {
+    "overviewTitle": "Trades Pets Universe Updates",
+    "overviewDescription": "The latest Trades Pets Universe update notes, new pets, new worlds, trading changes, and leak roundups for every patch."
+  },
+  "community": {
+    "overviewTitle": "Trades Pets Universe Community",
+    "overviewDescription": "Trades Pets Universe community links: the official Discord, Reddit hub, admin events, and where players trade and share values."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
