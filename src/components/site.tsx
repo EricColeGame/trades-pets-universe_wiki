@@ -20,8 +20,8 @@ export async function SiteHeader({ locale }: { locale: string }) {
   const header = (
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
-        <div className="relative h-9 w-9 overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
-          <img src="/images/logo.png" alt={siteConfig.name} className="h-full w-full object-cover" />
+        <div className="grid h-9 w-9 place-items-center rounded-xl border border-border bg-[hsl(var(--nav-theme))] shadow-sm">
+          <span aria-hidden="true" className="text-sm font-black leading-none tracking-tight text-[hsl(0_0%_10%)]">{siteConfig.logoText}</span>
         </div>
         <span className="text-sm font-bold tracking-wide text-foreground">{siteConfig.name}</span>
       </Link>
