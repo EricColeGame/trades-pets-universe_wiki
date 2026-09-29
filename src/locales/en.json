@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the hatch, trade, and collect loop, lock your best pets early, and finish your first session with a tradable inventory."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Pet Values & Trades",
+          "description": "Understand how rarity, demand, and supply set pet value so you can spot a fair offer before you press accept."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Active Codes",
+          "description": "Redeem working Trades Pets Universe codes for coins, potions, fruits, and boosts before they expire."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Trades Pets Universe."
+          "title": "Best Pets to Get",
+          "description": "Target the pets that actually hold trade power and turn your duplicates into upgrades as your collection grows."
         }
       ]
     },
@@ -66,78 +66,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Pet Tier List",
+        "Trading Guide",
+        "Hatching Odds",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first hatch to your first fair trade, including a step-by-step starter checklist.",
+          "href": "/guide/trades-pets-universe-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Working Trades Pets Universe codes with the rewards they grant, plus how to redeem them without errors.",
+          "href": "/codes/trades-pets-universe-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Pet Tier List",
+          "description": "How S through C tiers rank pets by demand, supply, and liquidity instead of rarity labels alone.",
+          "href": "/pets/trades-pets-universe-pet-tiers"
+        },
+        {
+          "badge": "Popular",
+          "title": "Trading Guide",
+          "description": "Set a floor price, read demand, and verify both sides of the trade window before you confirm.",
+          "href": "/guide/trades-pets-universe-trading-guide"
+        },
+        {
+          "badge": "New",
+          "title": "Hatching Guide",
+          "description": "Egg pools, rarity tiers, luck boosts, and how to turn fresh hatches into smart trades.",
+          "href": "/mechanics/trades-pets-universe-hatching"
+        },
+        {
+          "badge": "Popular",
+          "title": "Trade Values",
+          "description": "The four pillars behind every pet price and a simple framework for calling any offer a win, fair, or lose.",
+          "href": "/mechanics/trades-pets-universe-trade-values"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Latest Update",
+          "description": "How new pets, rarity rebalances, and trade interface changes move values after every patch.",
+          "href": "/updates/trades-pets-universe-latest-update"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Pets to Get",
+          "description": "Which pets hold real trade power at each progression stage, and which ones stall in your inventory.",
+          "href": "/progression/trades-pets-universe-best-pets-to-get"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Community Guide",
+          "description": "Where Trades Pets Universe players trade, price-check pets, and share value lists.",
+          "href": "/community/trades-pets-universe-community"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Trades Pets Universe?",
       "paragraphs": [
-        "Trades Pets Universe is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Trades Pets Universe is a Roblox pet-collection game built by Lip Builds around a simple loop: collect coins, buy eggs, hatch pets, and trade the ones you do not need. With hundreds of unique pets and new updates every week, the goal is to build the strongest collection you can.",
+        "There is no developer-set price list, so the community decides what every pet is worth. Rarity sets a floor, while demand and supply decide the ceiling, which is why the players who read the market early are the ones who trade up. Our wiki covers pet values, hatching odds, trading safety, codes, and progression routes so you can grow your collection without getting burned."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Lip Builds"
         },
         {
           "label": "Platform",
@@ -145,158 +145,264 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Pet Collection & Trading"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2.0M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "99.3K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Core Loop",
+          "value": "Hatch, Trade, Collect"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Trades Pets Universe Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Everything you need to hatch smarter, trade fairly, and build a top-tier collection in Trades Pets Universe, from pet value lists and codes to hatching odds and progression routes.",
       "modules": [
         {
           "order": 1,
-          "name": "Trades Pets Universe Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/trades-pets-universe-codes",
-          "displayType": "code-box",
+          "name": "Trades Pets Universe Pets Tier List",
+          "description": "A ranking guide showing the strongest and most valuable pets players can collect in Trades Pets Universe, organized by rarity, usefulness, and trading demand.",
+          "href": "/pets/trades-pets-universe-pet-tiers",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "S",
+              "detail": "Top-demand mythic and legendary pets that anchor serious trades"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "A",
+              "detail": "Strong epic pets with steady demand that trade fast"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "B",
+              "detail": "Solid rare pets that work as adds in mid-level deals"
+            },
+            {
+              "label": "C",
+              "detail": "Common and uncommon hatches best used as trade filler"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/trades-pets-universe-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Trades Pets Universe Codes",
+          "description": "A code collection section for active and expired reward codes, including free items, coins, potions, and other bonuses released by the developer.",
+          "href": "/codes/trades-pets-universe-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "update2",
+              "detail": "Fruit, Boosts and Potions"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "1mvisits",
+              "detail": "Fruit, Boosts and Potions"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Russo",
+              "detail": "1 Banana and 1 Coins Potion"
+            },
+            {
+              "label": "DarkRose",
+              "detail": "1 Luck Potion and 1 Kiwi"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/trades-pets-universe-tier-list",
-          "displayType": "tier-grid",
+          "name": "Trades Pets Universe Beginner Guide",
+          "description": "A starter guide explaining the basic gameplay loop, including collecting pets, opening eggs, earning coins, and progressing efficiently.",
+          "href": "/guide/trades-pets-universe-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Play the main loop and learn how coins are earned"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Hatch a batch of cheap eggs to build trade fodder"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Open your inventory and lock your best pets"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Read the collection index to see what exists"
+            },
+            {
+              "label": "5",
+              "detail": "Watch public trades before joining one yourself"
+            },
+            {
+              "label": "6",
+              "detail": "Make a small low-stakes trade and record the result"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/trades-pets-universe-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Trades Pets Universe Trading Guide",
+          "description": "A trading guide covering how players exchange pets, evaluate offers, and avoid unfair deals, with a focus on pet values and safe trading habits.",
+          "href": "/guide/trades-pets-universe-trading-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Value",
+              "detail": "Rank your pets by demand, not just by rarity label"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Floor",
+              "detail": "Set a minimum price before you start negotiating"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Demand",
+              "detail": "Track how fast pets actually move in busy trade hubs"
+            },
+            {
+              "label": "Verify",
+              "detail": "Re-read both sides of the trade window before confirming"
+            },
+            {
+              "label": "Scams",
+              "detail": "Slow down when a seller rushes you with a countdown"
+            },
+            {
+              "label": "Hubs",
+              "detail": "Trade in populated servers where competing offers appear"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/trades-pets-universe-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Trades Pets Universe Eggs Guide",
+          "description": "A database-style guide explaining available eggs, possible pet drops, and rarity chances, plus which eggs are worth hatching.",
+          "href": "/mechanics/trades-pets-universe-hatching",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Egg Pool",
+              "detail": "The full list of pets a specific egg can produce"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Rarity",
+              "detail": "The scarcity band that sets a pet's baseline value"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Luck",
+              "detail": "Temporary boosts that shift odds toward rarer pets"
+            },
+            {
+              "label": "Hatch x",
+              "detail": "Hatches several eggs at once but keeps per-egg odds"
+            },
+            {
+              "label": "Extras",
+              "detail": "Duplicate pets used for upgrades or trade filler"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/trades-pets-universe-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Trades Pets Universe Update Guide",
+          "description": "A timeline of game updates, new pets, events, and gameplay changes from official announcements, for players catching up after a patch.",
+          "href": "/updates/trades-pets-universe-latest-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "New Pets",
+              "detail": "Freshly added pets debut with inflated values before supply grows"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Rebalance",
+              "detail": "Older pets can gain or lose value when rarity odds shift"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Trade UI",
+              "detail": "Interface tweaks speed up negotiation and reduce mistakes"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited events push demand spikes on time-gated pets"
+            },
+            {
+              "label": "Patch Log",
+              "detail": "Read the notes early to price pets before the market settles"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Trades Pets Universe Progression Guide",
+          "description": "A progression guide explaining how to improve your collection, earn coins and potions faster, and unlock better pets.",
+          "href": "/progression/trades-pets-universe-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Keep at least one of every pet you hatch for trade depth"
+            },
+            {
+              "label": "2",
+              "detail": "Pick a single chase pet and target it with your offers"
+            },
+            {
+              "label": "3",
+              "detail": "Track current values instead of trusting memory"
+            },
+            {
+              "label": "4",
+              "detail": "Build a short list of reliable trading partners"
+            },
+            {
+              "label": "5",
+              "detail": "Trade up in rarity instead of swapping sideways"
+            },
+            {
+              "label": "6",
+              "detail": "Recheck your inventory values after every update"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trades Pets Universe Community Links",
+          "description": "A community section collecting the places where players follow announcements, updates, and developer news for Trades Pets Universe.",
+          "href": "/community/trades-pets-universe-community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trade Hub",
+              "detail": "In-game trade plazas where deals actually close"
+            },
+            {
+              "label": "Discord",
+              "detail": "Value lists, price checks, and middleman services"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Tier lists and value updates from active creators"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Threads and group walls for community price checks"
+            },
+            {
+              "label": "Events",
+              "detail": "Admin events and giveaways announced to the community"
             }
           ]
         }
@@ -308,23 +414,23 @@
       "items": [
         {
           "question": "What is Trades Pets Universe?",
-          "answer": "Trades Pets Universe is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Trades Pets Universe is a Roblox pet-collection game by Lip Builds. You collect coins, buy eggs, hatch pets across several rarity tiers, and trade duplicates with other players to build a stronger collection."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I start in Trades Pets Universe?",
+          "answer": "Follow the beginner loop: learn how coins are earned, hatch a batch of cheap eggs, lock your best pets in your inventory, then make one small trade to learn the trade window before risking anything valuable."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there working Trades Pets Universe codes?",
+          "answer": "Yes. Codes such as update2 and 1mvisits have granted fruits, boosts, and potions, while codes like Russo and DarkRose award items such as a Banana, Kiwi, or Coins Potion. Redeem them in the game's code box before they expire."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How are pet values decided in Trades Pets Universe?",
+          "answer": "There is no developer-set price list. Rarity sets a floor, but demand, supply, and how recently a pet was released decide the ceiling, which is why community value lists move after every update."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is trading safe in Trades Pets Universe?",
+          "answer": "Trades are final once both players confirm, so slow down at the confirmation screen, compare each pet, and set a minimum price before you negotiate. Never let a countdown pressure you into accepting."
         }
       ]
     },
